@@ -1,0 +1,121 @@
+,Class,Negative feeling,Time,Score
+0,Control,RRS,After - Before,-10.0
+1,Control,RRS,One week later - After,0.0
+2,Control,RRS,After - Before,-8.695652173913043
+3,Control,RRS,One week later - After,4.761904761904762
+4,Control,RRS,After - Before,-13.043478260869565
+5,Control,RRS,One week later - After,2.5
+6,Control,RRS,After - Before,-1.7543859649122806
+7,Control,RRS,One week later - After,0.0
+8,Control,RRS,After - Before,-11.76470588235294
+9,Control,RRS,One week later - After,-17.77777777777778
+10,Control,RRS,After - Before,0.0
+11,Control,RRS,One week later - After,2.380952380952381
+12,Control,RRS,After - Before,0.0
+13,Control,RRS,One week later - After,0.0
+14,Control,RRS,After - Before,-6.451612903225806
+15,Control,RRS,One week later - After,0.0
+16,Control,RRS,After - Before,-16.216216216216218
+17,Control,RRS,One week later - After,6.451612903225806
+18,Control,RRS,After - Before,-2.564102564102564
+19,Control,RRS,One week later - After,2.631578947368421
+20,Control,RRS,After - Before,-6.382978723404255
+21,Control,RRS,One week later - After,-2.272727272727273
+22,Control,RRS,After - Before,-7.8431372549019605
+23,Control,RRS,One week later - After,2.127659574468085
+24,Control,RRS,After - Before,-10.869565217391305
+25,Control,RRS,One week later - After,7.317073170731707
+26,Control,RRS,After - Before,-4.081632653061225
+27,Control,RRS,One week later - After,0.0
+28,Control,RRS,After - Before,-5.660377358490567
+29,Control,RRS,One week later - After,2.0
+30,Control,ATQ-30,After - Before,-7.462686567164178
+31,Control,ATQ-30,One week later - After,11.29032258064516
+32,Control,ATQ-30,After - Before,-7.216494845360824
+33,Control,ATQ-30,One week later - After,4.444444444444445
+34,Control,ATQ-30,After - Before,-11.881188118811881
+35,Control,ATQ-30,One week later - After,-2.247191011235955
+36,Control,ATQ-30,After - Before,-9.58904109589041
+37,Control,ATQ-30,One week later - After,12.121212121212121
+38,Control,ATQ-30,After - Before,4.0
+39,Control,ATQ-30,One week later - After,-6.41025641025641
+40,Control,ATQ-30,After - Before,-2.898550724637681
+41,Control,ATQ-30,One week later - After,4.477611940298507
+42,Control,ATQ-30,After - Before,-6.779661016949152
+43,Control,ATQ-30,One week later - After,9.090909090909092
+44,Control,ATQ-30,After - Before,-10.0
+45,Control,ATQ-30,One week later - After,1.3888888888888888
+46,Control,ATQ-30,After - Before,-17.91044776119403
+47,Control,ATQ-30,One week later - After,-3.6363636363636362
+48,Control,ATQ-30,After - Before,-15.384615384615385
+49,Control,ATQ-30,One week later - After,5.194805194805195
+50,Control,ATQ-30,After - Before,3.614457831325301
+51,Control,ATQ-30,One week later - After,-3.488372093023256
+52,Control,ATQ-30,After - Before,0.0
+53,Control,ATQ-30,One week later - After,0.0
+54,Control,ATQ-30,After - Before,-11.940298507462686
+55,Control,ATQ-30,One week later - After,6.779661016949152
+56,Control,ATQ-30,After - Before,-6.944444444444445
+57,Control,ATQ-30,One week later - After,5.970149253731343
+58,Control,ATQ-30,After - Before,-3.9473684210526314
+59,Control,ATQ-30,One week later - After,0.0
+60,Test,RRS,After - Before,-8.771929824561402
+61,Test,RRS,One week later - After,0.0
+62,Test,RRS,After - Before,-10.869565217391305
+63,Test,RRS,One week later - After,-4.878048780487805
+64,Test,RRS,After - Before,-31.914893617021278
+65,Test,RRS,One week later - After,21.875
+66,Test,RRS,After - Before,-18.367346938775512
+67,Test,RRS,One week later - After,0.0
+68,Test,RRS,After - Before,-13.953488372093023
+69,Test,RRS,One week later - After,0.0
+70,Test,RRS,After - Before,-3.571428571428571
+71,Test,RRS,One week later - After,-3.7037037037037033
+72,Test,RRS,After - Before,-3.225806451612903
+73,Test,RRS,One week later - After,-6.666666666666667
+74,Test,RRS,After - Before,-8.571428571428571
+75,Test,RRS,One week later - After,0.0
+76,Test,RRS,After - Before,0.0
+77,Test,RRS,One week later - After,-2.631578947368421
+78,Test,RRS,After - Before,-17.94871794871795
+79,Test,RRS,One week later - After,-6.25
+80,Test,RRS,After - Before,-6.0606060606060606
+81,Test,RRS,One week later - After,9.67741935483871
+82,Test,RRS,After - Before,-16.666666666666664
+83,Test,RRS,One week later - After,0.0
+84,Test,RRS,After - Before,-13.20754716981132
+85,Test,RRS,One week later - After,-10.869565217391305
+86,Test,RRS,After - Before,-8.0
+87,Test,RRS,One week later - After,2.1739130434782608
+88,Test,RRS,After - Before,-15.09433962264151
+89,Test,RRS,One week later - After,4.444444444444445
+90,Test,ATQ-30,After - Before,-6.8181818181818175
+91,Test,ATQ-30,One week later - After,0.0
+92,Test,ATQ-30,After - Before,-8.536585365853659
+93,Test,ATQ-30,One week later - After,-4.0
+94,Test,ATQ-30,After - Before,-17.28395061728395
+95,Test,ATQ-30,One week later - After,5.970149253731343
+96,Test,ATQ-30,After - Before,-23.275862068965516
+97,Test,ATQ-30,One week later - After,2.247191011235955
+98,Test,ATQ-30,After - Before,-21.27659574468085
+99,Test,ATQ-30,One week later - After,21.62162162162162
+100,Test,ATQ-30,After - Before,-11.688311688311687
+101,Test,ATQ-30,One week later - After,5.88235294117647
+102,Test,ATQ-30,After - Before,1.36986301369863
+103,Test,ATQ-30,One week later - After,-8.108108108108109
+104,Test,ATQ-30,After - Before,0.0
+105,Test,ATQ-30,One week later - After,0.0
+106,Test,ATQ-30,After - Before,2.7027027027027026
+107,Test,ATQ-30,One week later - After,0.0
+108,Test,ATQ-30,After - Before,-23.52941176470588
+109,Test,ATQ-30,One week later - After,-6.153846153846154
+110,Test,ATQ-30,After - Before,1.5625
+111,Test,ATQ-30,One week later - After,7.6923076923076925
+112,Test,ATQ-30,After - Before,-15.476190476190476
+113,Test,ATQ-30,One week later - After,-1.4084507042253522
+114,Test,ATQ-30,After - Before,-2.6785714285714284
+115,Test,ATQ-30,One week later - After,-7.339449541284404
+116,Test,ATQ-30,After - Before,-1.0869565217391304
+117,Test,ATQ-30,One week later - After,1.098901098901099
+118,Test,ATQ-30,After - Before,-17.105263157894736
+119,Test,ATQ-30,One week later - After,-3.1746031746031744

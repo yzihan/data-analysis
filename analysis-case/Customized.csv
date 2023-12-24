@@ -1,0 +1,1201 @@
+,Class,Aspect,Period,Points
+0,Control,Helpful,Period 1,5
+1,Control,Helpful,Period 1,4
+2,Control,Helpful,Period 1,4
+3,Control,Helpful,Period 1,5
+4,Control,Helpful,Period 1,5
+5,Control,Helpful,Period 1,6
+6,Control,Helpful,Period 1,6
+7,Control,Helpful,Period 1,6
+8,Control,Helpful,Period 1,6
+9,Control,Helpful,Period 1,4
+10,Control,Helpful,Period 1,4
+11,Control,Helpful,Period 1,4
+12,Control,Helpful,Period 1,4
+13,Control,Helpful,Period 1,5
+14,Control,Helpful,Period 1,5
+15,Control,Helpful,Period 2,4
+16,Control,Helpful,Period 2,3
+17,Control,Helpful,Period 2,3
+18,Control,Helpful,Period 2,3
+19,Control,Helpful,Period 2,3
+20,Control,Helpful,Period 2,4
+21,Control,Helpful,Period 2,4
+22,Control,Helpful,Period 2,4
+23,Control,Helpful,Period 2,5
+24,Control,Helpful,Period 2,3
+25,Control,Helpful,Period 2,4
+26,Control,Helpful,Period 2,4
+27,Control,Helpful,Period 2,5
+28,Control,Helpful,Period 2,6
+29,Control,Helpful,Period 2,3
+30,Control,Helpful,Period 3,4
+31,Control,Helpful,Period 3,4
+32,Control,Helpful,Period 3,4
+33,Control,Helpful,Period 3,3
+34,Control,Helpful,Period 3,2
+35,Control,Helpful,Period 3,5
+36,Control,Helpful,Period 3,6
+37,Control,Helpful,Period 3,4
+38,Control,Helpful,Period 3,4
+39,Control,Helpful,Period 3,4
+40,Control,Helpful,Period 3,4
+41,Control,Helpful,Period 3,4
+42,Control,Helpful,Period 3,5
+43,Control,Helpful,Period 3,4
+44,Control,Helpful,Period 3,4
+45,Control,Helpful,Period 4,3
+46,Control,Helpful,Period 4,3
+47,Control,Helpful,Period 4,3
+48,Control,Helpful,Period 4,2
+49,Control,Helpful,Period 4,2
+50,Control,Helpful,Period 4,4
+51,Control,Helpful,Period 4,3
+52,Control,Helpful,Period 4,3
+53,Control,Helpful,Period 4,3
+54,Control,Helpful,Period 4,3
+55,Control,Helpful,Period 4,3
+56,Control,Helpful,Period 4,6
+57,Control,Helpful,Period 4,4
+58,Control,Helpful,Period 4,3
+59,Control,Helpful,Period 4,3
+60,Control,Collaborative,Period 1,4
+61,Control,Collaborative,Period 1,4
+62,Control,Collaborative,Period 1,5
+63,Control,Collaborative,Period 1,4
+64,Control,Collaborative,Period 1,4
+65,Control,Collaborative,Period 1,5
+66,Control,Collaborative,Period 1,3
+67,Control,Collaborative,Period 1,4
+68,Control,Collaborative,Period 1,6
+69,Control,Collaborative,Period 1,4
+70,Control,Collaborative,Period 1,4
+71,Control,Collaborative,Period 1,5
+72,Control,Collaborative,Period 1,3
+73,Control,Collaborative,Period 1,4
+74,Control,Collaborative,Period 1,3
+75,Control,Collaborative,Period 2,3
+76,Control,Collaborative,Period 2,3
+77,Control,Collaborative,Period 2,4
+78,Control,Collaborative,Period 2,4
+79,Control,Collaborative,Period 2,4
+80,Control,Collaborative,Period 2,3
+81,Control,Collaborative,Period 2,3
+82,Control,Collaborative,Period 2,3
+83,Control,Collaborative,Period 2,2
+84,Control,Collaborative,Period 2,2
+85,Control,Collaborative,Period 2,2
+86,Control,Collaborative,Period 2,2
+87,Control,Collaborative,Period 2,3
+88,Control,Collaborative,Period 2,3
+89,Control,Collaborative,Period 2,3
+90,Control,Collaborative,Period 3,3
+91,Control,Collaborative,Period 3,3
+92,Control,Collaborative,Period 3,3
+93,Control,Collaborative,Period 3,3
+94,Control,Collaborative,Period 3,3
+95,Control,Collaborative,Period 3,3
+96,Control,Collaborative,Period 3,4
+97,Control,Collaborative,Period 3,3
+98,Control,Collaborative,Period 3,3
+99,Control,Collaborative,Period 3,3
+100,Control,Collaborative,Period 3,2
+101,Control,Collaborative,Period 3,3
+102,Control,Collaborative,Period 3,4
+103,Control,Collaborative,Period 3,3
+104,Control,Collaborative,Period 3,3
+105,Control,Collaborative,Period 4,1
+106,Control,Collaborative,Period 4,2
+107,Control,Collaborative,Period 4,2
+108,Control,Collaborative,Period 4,2
+109,Control,Collaborative,Period 4,2
+110,Control,Collaborative,Period 4,2
+111,Control,Collaborative,Period 4,2
+112,Control,Collaborative,Period 4,2
+113,Control,Collaborative,Period 4,2
+114,Control,Collaborative,Period 4,1
+115,Control,Collaborative,Period 4,2
+116,Control,Collaborative,Period 4,3
+117,Control,Collaborative,Period 4,3
+118,Control,Collaborative,Period 4,2
+119,Control,Collaborative,Period 4,1
+120,Control,Free Expression,Period 1,4
+121,Control,Free Expression,Period 1,4
+122,Control,Free Expression,Period 1,4
+123,Control,Free Expression,Period 1,4
+124,Control,Free Expression,Period 1,4
+125,Control,Free Expression,Period 1,5
+126,Control,Free Expression,Period 1,3
+127,Control,Free Expression,Period 1,4
+128,Control,Free Expression,Period 1,4
+129,Control,Free Expression,Period 1,4
+130,Control,Free Expression,Period 1,4
+131,Control,Free Expression,Period 1,4
+132,Control,Free Expression,Period 1,3
+133,Control,Free Expression,Period 1,4
+134,Control,Free Expression,Period 1,4
+135,Control,Free Expression,Period 2,4
+136,Control,Free Expression,Period 2,4
+137,Control,Free Expression,Period 2,4
+138,Control,Free Expression,Period 2,4
+139,Control,Free Expression,Period 2,4
+140,Control,Free Expression,Period 2,4
+141,Control,Free Expression,Period 2,4
+142,Control,Free Expression,Period 2,3
+143,Control,Free Expression,Period 2,3
+144,Control,Free Expression,Period 2,3
+145,Control,Free Expression,Period 2,3
+146,Control,Free Expression,Period 2,4
+147,Control,Free Expression,Period 2,4
+148,Control,Free Expression,Period 2,4
+149,Control,Free Expression,Period 2,4
+150,Control,Free Expression,Period 3,4
+151,Control,Free Expression,Period 3,4
+152,Control,Free Expression,Period 3,3
+153,Control,Free Expression,Period 3,3
+154,Control,Free Expression,Period 3,3
+155,Control,Free Expression,Period 3,3
+156,Control,Free Expression,Period 3,3
+157,Control,Free Expression,Period 3,3
+158,Control,Free Expression,Period 3,4
+159,Control,Free Expression,Period 3,4
+160,Control,Free Expression,Period 3,4
+161,Control,Free Expression,Period 3,2
+162,Control,Free Expression,Period 3,3
+163,Control,Free Expression,Period 3,3
+164,Control,Free Expression,Period 3,3
+165,Control,Free Expression,Period 4,4
+166,Control,Free Expression,Period 4,4
+167,Control,Free Expression,Period 4,3
+168,Control,Free Expression,Period 4,3
+169,Control,Free Expression,Period 4,2
+170,Control,Free Expression,Period 4,2
+171,Control,Free Expression,Period 4,3
+172,Control,Free Expression,Period 4,3
+173,Control,Free Expression,Period 4,3
+174,Control,Free Expression,Period 4,3
+175,Control,Free Expression,Period 4,3
+176,Control,Free Expression,Period 4,3
+177,Control,Free Expression,Period 4,4
+178,Control,Free Expression,Period 4,2
+179,Control,Free Expression,Period 4,2
+180,Control,Bystander View,Period 1,3
+181,Control,Bystander View,Period 1,3
+182,Control,Bystander View,Period 1,3
+183,Control,Bystander View,Period 1,3
+184,Control,Bystander View,Period 1,3
+185,Control,Bystander View,Period 1,3
+186,Control,Bystander View,Period 1,3
+187,Control,Bystander View,Period 1,3
+188,Control,Bystander View,Period 1,2
+189,Control,Bystander View,Period 1,3
+190,Control,Bystander View,Period 1,2
+191,Control,Bystander View,Period 1,3
+192,Control,Bystander View,Period 1,3
+193,Control,Bystander View,Period 1,3
+194,Control,Bystander View,Period 1,3
+195,Control,Bystander View,Period 2,2
+196,Control,Bystander View,Period 2,2
+197,Control,Bystander View,Period 2,2
+198,Control,Bystander View,Period 2,2
+199,Control,Bystander View,Period 2,2
+200,Control,Bystander View,Period 2,2
+201,Control,Bystander View,Period 2,2
+202,Control,Bystander View,Period 2,3
+203,Control,Bystander View,Period 2,2
+204,Control,Bystander View,Period 2,3
+205,Control,Bystander View,Period 2,3
+206,Control,Bystander View,Period 2,3
+207,Control,Bystander View,Period 2,3
+208,Control,Bystander View,Period 2,3
+209,Control,Bystander View,Period 2,3
+210,Control,Bystander View,Period 3,2
+211,Control,Bystander View,Period 3,2
+212,Control,Bystander View,Period 3,2
+213,Control,Bystander View,Period 3,2
+214,Control,Bystander View,Period 3,2
+215,Control,Bystander View,Period 3,2
+216,Control,Bystander View,Period 3,2
+217,Control,Bystander View,Period 3,2
+218,Control,Bystander View,Period 3,2
+219,Control,Bystander View,Period 3,2
+220,Control,Bystander View,Period 3,2
+221,Control,Bystander View,Period 3,2
+222,Control,Bystander View,Period 3,2
+223,Control,Bystander View,Period 3,2
+224,Control,Bystander View,Period 3,3
+225,Control,Bystander View,Period 4,1
+226,Control,Bystander View,Period 4,2
+227,Control,Bystander View,Period 4,2
+228,Control,Bystander View,Period 4,2
+229,Control,Bystander View,Period 4,1
+230,Control,Bystander View,Period 4,2
+231,Control,Bystander View,Period 4,2
+232,Control,Bystander View,Period 4,2
+233,Control,Bystander View,Period 4,2
+234,Control,Bystander View,Period 4,1
+235,Control,Bystander View,Period 4,2
+236,Control,Bystander View,Period 4,1
+237,Control,Bystander View,Period 4,2
+238,Control,Bystander View,Period 4,2
+239,Control,Bystander View,Period 4,3
+240,Control,Empathy,Period 1,3
+241,Control,Empathy,Period 1,4
+242,Control,Empathy,Period 1,3
+243,Control,Empathy,Period 1,3
+244,Control,Empathy,Period 1,3
+245,Control,Empathy,Period 1,3
+246,Control,Empathy,Period 1,3
+247,Control,Empathy,Period 1,4
+248,Control,Empathy,Period 1,1
+249,Control,Empathy,Period 1,2
+250,Control,Empathy,Period 1,2
+251,Control,Empathy,Period 1,3
+252,Control,Empathy,Period 1,3
+253,Control,Empathy,Period 1,3
+254,Control,Empathy,Period 1,3
+255,Control,Empathy,Period 2,4
+256,Control,Empathy,Period 2,4
+257,Control,Empathy,Period 2,1
+258,Control,Empathy,Period 2,1
+259,Control,Empathy,Period 2,2
+260,Control,Empathy,Period 2,3
+261,Control,Empathy,Period 2,2
+262,Control,Empathy,Period 2,3
+263,Control,Empathy,Period 2,4
+264,Control,Empathy,Period 2,4
+265,Control,Empathy,Period 2,4
+266,Control,Empathy,Period 2,3
+267,Control,Empathy,Period 2,4
+268,Control,Empathy,Period 2,3
+269,Control,Empathy,Period 2,3
+270,Control,Empathy,Period 3,3
+271,Control,Empathy,Period 3,3
+272,Control,Empathy,Period 3,1
+273,Control,Empathy,Period 3,1
+274,Control,Empathy,Period 3,2
+275,Control,Empathy,Period 3,3
+276,Control,Empathy,Period 3,3
+277,Control,Empathy,Period 3,3
+278,Control,Empathy,Period 3,3
+279,Control,Empathy,Period 3,3
+280,Control,Empathy,Period 3,3
+281,Control,Empathy,Period 3,3
+282,Control,Empathy,Period 3,4
+283,Control,Empathy,Period 3,3
+284,Control,Empathy,Period 3,3
+285,Control,Empathy,Period 4,3
+286,Control,Empathy,Period 4,3
+287,Control,Empathy,Period 4,1
+288,Control,Empathy,Period 4,1
+289,Control,Empathy,Period 4,2
+290,Control,Empathy,Period 4,3
+291,Control,Empathy,Period 4,3
+292,Control,Empathy,Period 4,3
+293,Control,Empathy,Period 4,3
+294,Control,Empathy,Period 4,3
+295,Control,Empathy,Period 4,2
+296,Control,Empathy,Period 4,3
+297,Control,Empathy,Period 4,4
+298,Control,Empathy,Period 4,1
+299,Control,Empathy,Period 4,3
+300,Control,Interpretations,Period 1,5
+301,Control,Interpretations,Period 1,5
+302,Control,Interpretations,Period 1,5
+303,Control,Interpretations,Period 1,5
+304,Control,Interpretations,Period 1,5
+305,Control,Interpretations,Period 1,4
+306,Control,Interpretations,Period 1,6
+307,Control,Interpretations,Period 1,3
+308,Control,Interpretations,Period 1,5
+309,Control,Interpretations,Period 1,5
+310,Control,Interpretations,Period 1,7
+311,Control,Interpretations,Period 1,5
+312,Control,Interpretations,Period 1,5
+313,Control,Interpretations,Period 1,5
+314,Control,Interpretations,Period 1,4
+315,Control,Interpretations,Period 2,5
+316,Control,Interpretations,Period 2,4
+317,Control,Interpretations,Period 2,4
+318,Control,Interpretations,Period 2,5
+319,Control,Interpretations,Period 2,5
+320,Control,Interpretations,Period 2,5
+321,Control,Interpretations,Period 2,5
+322,Control,Interpretations,Period 2,5
+323,Control,Interpretations,Period 2,5
+324,Control,Interpretations,Period 2,4
+325,Control,Interpretations,Period 2,5
+326,Control,Interpretations,Period 2,5
+327,Control,Interpretations,Period 2,5
+328,Control,Interpretations,Period 2,5
+329,Control,Interpretations,Period 2,4
+330,Control,Interpretations,Period 3,5
+331,Control,Interpretations,Period 3,3
+332,Control,Interpretations,Period 3,5
+333,Control,Interpretations,Period 3,5
+334,Control,Interpretations,Period 3,5
+335,Control,Interpretations,Period 3,5
+336,Control,Interpretations,Period 3,5
+337,Control,Interpretations,Period 3,5
+338,Control,Interpretations,Period 3,5
+339,Control,Interpretations,Period 3,4
+340,Control,Interpretations,Period 3,5
+341,Control,Interpretations,Period 3,5
+342,Control,Interpretations,Period 3,5
+343,Control,Interpretations,Period 3,5
+344,Control,Interpretations,Period 3,4
+345,Control,Interpretations,Period 4,6
+346,Control,Interpretations,Period 4,3
+347,Control,Interpretations,Period 4,5
+348,Control,Interpretations,Period 4,5
+349,Control,Interpretations,Period 4,5
+350,Control,Interpretations,Period 4,5
+351,Control,Interpretations,Period 4,3
+352,Control,Interpretations,Period 4,3
+353,Control,Interpretations,Period 4,3
+354,Control,Interpretations,Period 4,3
+355,Control,Interpretations,Period 4,5
+356,Control,Interpretations,Period 4,5
+357,Control,Interpretations,Period 4,5
+358,Control,Interpretations,Period 4,3
+359,Control,Interpretations,Period 4,4
+360,Control,Learning,Period 1,4
+361,Control,Learning,Period 1,5
+362,Control,Learning,Period 1,5
+363,Control,Learning,Period 1,5
+364,Control,Learning,Period 1,5
+365,Control,Learning,Period 1,4
+366,Control,Learning,Period 1,6
+367,Control,Learning,Period 1,3
+368,Control,Learning,Period 1,4
+369,Control,Learning,Period 1,4
+370,Control,Learning,Period 1,5
+371,Control,Learning,Period 1,4
+372,Control,Learning,Period 1,5
+373,Control,Learning,Period 1,5
+374,Control,Learning,Period 1,4
+375,Control,Learning,Period 2,4
+376,Control,Learning,Period 2,5
+377,Control,Learning,Period 2,5
+378,Control,Learning,Period 2,5
+379,Control,Learning,Period 2,5
+380,Control,Learning,Period 2,4
+381,Control,Learning,Period 2,4
+382,Control,Learning,Period 2,3
+383,Control,Learning,Period 2,4
+384,Control,Learning,Period 2,4
+385,Control,Learning,Period 2,5
+386,Control,Learning,Period 2,4
+387,Control,Learning,Period 2,5
+388,Control,Learning,Period 2,5
+389,Control,Learning,Period 2,4
+390,Control,Learning,Period 3,5
+391,Control,Learning,Period 3,3
+392,Control,Learning,Period 3,3
+393,Control,Learning,Period 3,3
+394,Control,Learning,Period 3,3
+395,Control,Learning,Period 3,4
+396,Control,Learning,Period 3,4
+397,Control,Learning,Period 3,3
+398,Control,Learning,Period 3,4
+399,Control,Learning,Period 3,2
+400,Control,Learning,Period 3,5
+401,Control,Learning,Period 3,4
+402,Control,Learning,Period 3,5
+403,Control,Learning,Period 3,2
+404,Control,Learning,Period 3,4
+405,Control,Learning,Period 4,5
+406,Control,Learning,Period 4,3
+407,Control,Learning,Period 4,3
+408,Control,Learning,Period 4,3
+409,Control,Learning,Period 4,1
+410,Control,Learning,Period 4,4
+411,Control,Learning,Period 4,2
+412,Control,Learning,Period 4,3
+413,Control,Learning,Period 4,1
+414,Control,Learning,Period 4,2
+415,Control,Learning,Period 4,5
+416,Control,Learning,Period 4,1
+417,Control,Learning,Period 4,4
+418,Control,Learning,Period 4,2
+419,Control,Learning,Period 4,4
+420,Control,Ownership,Period 1,6
+421,Control,Ownership,Period 1,6
+422,Control,Ownership,Period 1,5
+423,Control,Ownership,Period 1,6
+424,Control,Ownership,Period 1,5
+425,Control,Ownership,Period 1,6
+426,Control,Ownership,Period 1,6
+427,Control,Ownership,Period 1,6
+428,Control,Ownership,Period 1,5
+429,Control,Ownership,Period 1,5
+430,Control,Ownership,Period 1,6
+431,Control,Ownership,Period 1,4
+432,Control,Ownership,Period 1,6
+433,Control,Ownership,Period 1,5
+434,Control,Ownership,Period 1,6
+435,Control,Ownership,Period 2,4
+436,Control,Ownership,Period 2,4
+437,Control,Ownership,Period 2,5
+438,Control,Ownership,Period 2,5
+439,Control,Ownership,Period 2,5
+440,Control,Ownership,Period 2,5
+441,Control,Ownership,Period 2,5
+442,Control,Ownership,Period 2,4
+443,Control,Ownership,Period 2,5
+444,Control,Ownership,Period 2,6
+445,Control,Ownership,Period 2,6
+446,Control,Ownership,Period 2,4
+447,Control,Ownership,Period 2,5
+448,Control,Ownership,Period 2,6
+449,Control,Ownership,Period 2,6
+450,Control,Ownership,Period 3,4
+451,Control,Ownership,Period 3,4
+452,Control,Ownership,Period 3,5
+453,Control,Ownership,Period 3,4
+454,Control,Ownership,Period 3,5
+455,Control,Ownership,Period 3,4
+456,Control,Ownership,Period 3,5
+457,Control,Ownership,Period 3,4
+458,Control,Ownership,Period 3,5
+459,Control,Ownership,Period 3,6
+460,Control,Ownership,Period 3,5
+461,Control,Ownership,Period 3,4
+462,Control,Ownership,Period 3,6
+463,Control,Ownership,Period 3,6
+464,Control,Ownership,Period 3,6
+465,Control,Ownership,Period 4,2
+466,Control,Ownership,Period 4,3
+467,Control,Ownership,Period 4,4
+468,Control,Ownership,Period 4,2
+469,Control,Ownership,Period 4,3
+470,Control,Ownership,Period 4,3
+471,Control,Ownership,Period 4,4
+472,Control,Ownership,Period 4,2
+473,Control,Ownership,Period 4,3
+474,Control,Ownership,Period 4,2
+475,Control,Ownership,Period 4,2
+476,Control,Ownership,Period 4,4
+477,Control,Ownership,Period 4,5
+478,Control,Ownership,Period 4,6
+479,Control,Ownership,Period 4,6
+480,Control,Long-term Usage,Period 1,3
+481,Control,Long-term Usage,Period 1,2
+482,Control,Long-term Usage,Period 1,6
+483,Control,Long-term Usage,Period 1,1
+484,Control,Long-term Usage,Period 1,3
+485,Control,Long-term Usage,Period 1,3
+486,Control,Long-term Usage,Period 1,3
+487,Control,Long-term Usage,Period 1,3
+488,Control,Long-term Usage,Period 1,3
+489,Control,Long-term Usage,Period 1,3
+490,Control,Long-term Usage,Period 1,3
+491,Control,Long-term Usage,Period 1,3
+492,Control,Long-term Usage,Period 1,3
+493,Control,Long-term Usage,Period 1,3
+494,Control,Long-term Usage,Period 1,3
+495,Control,Long-term Usage,Period 2,3
+496,Control,Long-term Usage,Period 2,2
+497,Control,Long-term Usage,Period 2,6
+498,Control,Long-term Usage,Period 2,1
+499,Control,Long-term Usage,Period 2,3
+500,Control,Long-term Usage,Period 2,1
+501,Control,Long-term Usage,Period 2,3
+502,Control,Long-term Usage,Period 2,2
+503,Control,Long-term Usage,Period 2,3
+504,Control,Long-term Usage,Period 2,3
+505,Control,Long-term Usage,Period 2,3
+506,Control,Long-term Usage,Period 2,3
+507,Control,Long-term Usage,Period 2,3
+508,Control,Long-term Usage,Period 2,3
+509,Control,Long-term Usage,Period 2,3
+510,Control,Long-term Usage,Period 3,2
+511,Control,Long-term Usage,Period 3,2
+512,Control,Long-term Usage,Period 3,2
+513,Control,Long-term Usage,Period 3,1
+514,Control,Long-term Usage,Period 3,3
+515,Control,Long-term Usage,Period 3,1
+516,Control,Long-term Usage,Period 3,3
+517,Control,Long-term Usage,Period 3,2
+518,Control,Long-term Usage,Period 3,3
+519,Control,Long-term Usage,Period 3,1
+520,Control,Long-term Usage,Period 3,1
+521,Control,Long-term Usage,Period 3,3
+522,Control,Long-term Usage,Period 3,3
+523,Control,Long-term Usage,Period 3,3
+524,Control,Long-term Usage,Period 3,3
+525,Control,Long-term Usage,Period 4,1
+526,Control,Long-term Usage,Period 4,2
+527,Control,Long-term Usage,Period 4,2
+528,Control,Long-term Usage,Period 4,1
+529,Control,Long-term Usage,Period 4,3
+530,Control,Long-term Usage,Period 4,1
+531,Control,Long-term Usage,Period 4,3
+532,Control,Long-term Usage,Period 4,2
+533,Control,Long-term Usage,Period 4,3
+534,Control,Long-term Usage,Period 4,1
+535,Control,Long-term Usage,Period 4,1
+536,Control,Long-term Usage,Period 4,3
+537,Control,Long-term Usage,Period 4,1
+538,Control,Long-term Usage,Period 4,3
+539,Control,Long-term Usage,Period 4,1
+540,Control,Over-reliance,Period 1,3
+541,Control,Over-reliance,Period 1,3
+542,Control,Over-reliance,Period 1,3
+543,Control,Over-reliance,Period 1,3
+544,Control,Over-reliance,Period 1,3
+545,Control,Over-reliance,Period 1,3
+546,Control,Over-reliance,Period 1,3
+547,Control,Over-reliance,Period 1,4
+548,Control,Over-reliance,Period 1,5
+549,Control,Over-reliance,Period 1,2
+550,Control,Over-reliance,Period 1,1
+551,Control,Over-reliance,Period 1,3
+552,Control,Over-reliance,Period 1,3
+553,Control,Over-reliance,Period 1,3
+554,Control,Over-reliance,Period 1,3
+555,Control,Over-reliance,Period 2,4
+556,Control,Over-reliance,Period 2,4
+557,Control,Over-reliance,Period 2,3
+558,Control,Over-reliance,Period 2,2
+559,Control,Over-reliance,Period 2,4
+560,Control,Over-reliance,Period 2,3
+561,Control,Over-reliance,Period 2,3
+562,Control,Over-reliance,Period 2,3
+563,Control,Over-reliance,Period 2,2
+564,Control,Over-reliance,Period 2,3
+565,Control,Over-reliance,Period 2,4
+566,Control,Over-reliance,Period 2,3
+567,Control,Over-reliance,Period 2,3
+568,Control,Over-reliance,Period 2,3
+569,Control,Over-reliance,Period 2,3
+570,Control,Over-reliance,Period 3,3
+571,Control,Over-reliance,Period 3,3
+572,Control,Over-reliance,Period 3,2
+573,Control,Over-reliance,Period 3,3
+574,Control,Over-reliance,Period 3,4
+575,Control,Over-reliance,Period 3,3
+576,Control,Over-reliance,Period 3,3
+577,Control,Over-reliance,Period 3,2
+578,Control,Over-reliance,Period 3,1
+579,Control,Over-reliance,Period 3,4
+580,Control,Over-reliance,Period 3,3
+581,Control,Over-reliance,Period 3,3
+582,Control,Over-reliance,Period 3,3
+583,Control,Over-reliance,Period 3,3
+584,Control,Over-reliance,Period 3,3
+585,Control,Over-reliance,Period 4,2
+586,Control,Over-reliance,Period 4,2
+587,Control,Over-reliance,Period 4,2
+588,Control,Over-reliance,Period 4,3
+589,Control,Over-reliance,Period 4,1
+590,Control,Over-reliance,Period 4,3
+591,Control,Over-reliance,Period 4,1
+592,Control,Over-reliance,Period 4,2
+593,Control,Over-reliance,Period 4,2
+594,Control,Over-reliance,Period 4,2
+595,Control,Over-reliance,Period 4,2
+596,Control,Over-reliance,Period 4,2
+597,Control,Over-reliance,Period 4,2
+598,Control,Over-reliance,Period 4,1
+599,Control,Over-reliance,Period 4,3
+600,Test,Helpful,Period 1,6
+601,Test,Helpful,Period 1,6
+602,Test,Helpful,Period 1,4
+603,Test,Helpful,Period 1,5
+604,Test,Helpful,Period 1,5
+605,Test,Helpful,Period 1,5
+606,Test,Helpful,Period 1,5
+607,Test,Helpful,Period 1,5
+608,Test,Helpful,Period 1,5
+609,Test,Helpful,Period 1,6
+610,Test,Helpful,Period 1,6
+611,Test,Helpful,Period 1,6
+612,Test,Helpful,Period 1,6
+613,Test,Helpful,Period 1,7
+614,Test,Helpful,Period 1,6
+615,Test,Helpful,Period 2,7
+616,Test,Helpful,Period 2,6
+617,Test,Helpful,Period 2,6
+618,Test,Helpful,Period 2,6
+619,Test,Helpful,Period 2,5
+620,Test,Helpful,Period 2,5
+621,Test,Helpful,Period 2,5
+622,Test,Helpful,Period 2,5
+623,Test,Helpful,Period 2,6
+624,Test,Helpful,Period 2,6
+625,Test,Helpful,Period 2,6
+626,Test,Helpful,Period 2,6
+627,Test,Helpful,Period 2,7
+628,Test,Helpful,Period 2,7
+629,Test,Helpful,Period 2,6
+630,Test,Helpful,Period 3,6
+631,Test,Helpful,Period 3,6
+632,Test,Helpful,Period 3,6
+633,Test,Helpful,Period 3,6
+634,Test,Helpful,Period 3,5
+635,Test,Helpful,Period 3,6
+636,Test,Helpful,Period 3,7
+637,Test,Helpful,Period 3,6
+638,Test,Helpful,Period 3,6
+639,Test,Helpful,Period 3,6
+640,Test,Helpful,Period 3,6
+641,Test,Helpful,Period 3,7
+642,Test,Helpful,Period 3,7
+643,Test,Helpful,Period 3,7
+644,Test,Helpful,Period 3,6
+645,Test,Helpful,Period 4,7
+646,Test,Helpful,Period 4,7
+647,Test,Helpful,Period 4,6
+648,Test,Helpful,Period 4,7
+649,Test,Helpful,Period 4,7
+650,Test,Helpful,Period 4,6
+651,Test,Helpful,Period 4,6
+652,Test,Helpful,Period 4,6
+653,Test,Helpful,Period 4,6
+654,Test,Helpful,Period 4,6
+655,Test,Helpful,Period 4,7
+656,Test,Helpful,Period 4,7
+657,Test,Helpful,Period 4,7
+658,Test,Helpful,Period 4,7
+659,Test,Helpful,Period 4,6
+660,Test,Collaborative,Period 1,6
+661,Test,Collaborative,Period 1,6
+662,Test,Collaborative,Period 1,4
+663,Test,Collaborative,Period 1,5
+664,Test,Collaborative,Period 1,5
+665,Test,Collaborative,Period 1,6
+666,Test,Collaborative,Period 1,7
+667,Test,Collaborative,Period 1,5
+668,Test,Collaborative,Period 1,5
+669,Test,Collaborative,Period 1,6
+670,Test,Collaborative,Period 1,6
+671,Test,Collaborative,Period 1,6
+672,Test,Collaborative,Period 1,6
+673,Test,Collaborative,Period 1,7
+674,Test,Collaborative,Period 1,6
+675,Test,Collaborative,Period 2,7
+676,Test,Collaborative,Period 2,6
+677,Test,Collaborative,Period 2,6
+678,Test,Collaborative,Period 2,6
+679,Test,Collaborative,Period 2,5
+680,Test,Collaborative,Period 2,6
+681,Test,Collaborative,Period 2,5
+682,Test,Collaborative,Period 2,5
+683,Test,Collaborative,Period 2,6
+684,Test,Collaborative,Period 2,7
+685,Test,Collaborative,Period 2,6
+686,Test,Collaborative,Period 2,6
+687,Test,Collaborative,Period 2,7
+688,Test,Collaborative,Period 2,7
+689,Test,Collaborative,Period 2,6
+690,Test,Collaborative,Period 3,7
+691,Test,Collaborative,Period 3,6
+692,Test,Collaborative,Period 3,7
+693,Test,Collaborative,Period 3,7
+694,Test,Collaborative,Period 3,5
+695,Test,Collaborative,Period 3,6
+696,Test,Collaborative,Period 3,7
+697,Test,Collaborative,Period 3,6
+698,Test,Collaborative,Period 3,6
+699,Test,Collaborative,Period 3,6
+700,Test,Collaborative,Period 3,6
+701,Test,Collaborative,Period 3,7
+702,Test,Collaborative,Period 3,7
+703,Test,Collaborative,Period 3,7
+704,Test,Collaborative,Period 3,6
+705,Test,Collaborative,Period 4,7
+706,Test,Collaborative,Period 4,5
+707,Test,Collaborative,Period 4,6
+708,Test,Collaborative,Period 4,7
+709,Test,Collaborative,Period 4,7
+710,Test,Collaborative,Period 4,6
+711,Test,Collaborative,Period 4,6
+712,Test,Collaborative,Period 4,6
+713,Test,Collaborative,Period 4,4
+714,Test,Collaborative,Period 4,5
+715,Test,Collaborative,Period 4,7
+716,Test,Collaborative,Period 4,7
+717,Test,Collaborative,Period 4,5
+718,Test,Collaborative,Period 4,5
+719,Test,Collaborative,Period 4,5
+720,Test,Free Expression,Period 1,4
+721,Test,Free Expression,Period 1,4
+722,Test,Free Expression,Period 1,4
+723,Test,Free Expression,Period 1,4
+724,Test,Free Expression,Period 1,4
+725,Test,Free Expression,Period 1,5
+726,Test,Free Expression,Period 1,4
+727,Test,Free Expression,Period 1,4
+728,Test,Free Expression,Period 1,4
+729,Test,Free Expression,Period 1,5
+730,Test,Free Expression,Period 1,3
+731,Test,Free Expression,Period 1,4
+732,Test,Free Expression,Period 1,4
+733,Test,Free Expression,Period 1,4
+734,Test,Free Expression,Period 1,4
+735,Test,Free Expression,Period 2,4
+736,Test,Free Expression,Period 2,4
+737,Test,Free Expression,Period 2,4
+738,Test,Free Expression,Period 2,5
+739,Test,Free Expression,Period 2,4
+740,Test,Free Expression,Period 2,4
+741,Test,Free Expression,Period 2,4
+742,Test,Free Expression,Period 2,5
+743,Test,Free Expression,Period 2,5
+744,Test,Free Expression,Period 2,5
+745,Test,Free Expression,Period 2,5
+746,Test,Free Expression,Period 2,4
+747,Test,Free Expression,Period 2,4
+748,Test,Free Expression,Period 2,4
+749,Test,Free Expression,Period 2,5
+750,Test,Free Expression,Period 3,5
+751,Test,Free Expression,Period 3,5
+752,Test,Free Expression,Period 3,5
+753,Test,Free Expression,Period 3,5
+754,Test,Free Expression,Period 3,5
+755,Test,Free Expression,Period 3,5
+756,Test,Free Expression,Period 3,5
+757,Test,Free Expression,Period 3,5
+758,Test,Free Expression,Period 3,5
+759,Test,Free Expression,Period 3,4
+760,Test,Free Expression,Period 3,4
+761,Test,Free Expression,Period 3,5
+762,Test,Free Expression,Period 3,4
+763,Test,Free Expression,Period 3,4
+764,Test,Free Expression,Period 3,5
+765,Test,Free Expression,Period 4,6
+766,Test,Free Expression,Period 4,6
+767,Test,Free Expression,Period 4,6
+768,Test,Free Expression,Period 4,6
+769,Test,Free Expression,Period 4,5
+770,Test,Free Expression,Period 4,5
+771,Test,Free Expression,Period 4,5
+772,Test,Free Expression,Period 4,5
+773,Test,Free Expression,Period 4,5
+774,Test,Free Expression,Period 4,4
+775,Test,Free Expression,Period 4,5
+776,Test,Free Expression,Period 4,6
+777,Test,Free Expression,Period 4,5
+778,Test,Free Expression,Period 4,5
+779,Test,Free Expression,Period 4,5
+780,Test,Bystander View,Period 1,4
+781,Test,Bystander View,Period 1,4
+782,Test,Bystander View,Period 1,4
+783,Test,Bystander View,Period 1,5
+784,Test,Bystander View,Period 1,4
+785,Test,Bystander View,Period 1,4
+786,Test,Bystander View,Period 1,4
+787,Test,Bystander View,Period 1,5
+788,Test,Bystander View,Period 1,4
+789,Test,Bystander View,Period 1,4
+790,Test,Bystander View,Period 1,4
+791,Test,Bystander View,Period 1,3
+792,Test,Bystander View,Period 1,3
+793,Test,Bystander View,Period 1,4
+794,Test,Bystander View,Period 1,3
+795,Test,Bystander View,Period 2,5
+796,Test,Bystander View,Period 2,5
+797,Test,Bystander View,Period 2,5
+798,Test,Bystander View,Period 2,5
+799,Test,Bystander View,Period 2,5
+800,Test,Bystander View,Period 2,5
+801,Test,Bystander View,Period 2,4
+802,Test,Bystander View,Period 2,5
+803,Test,Bystander View,Period 2,5
+804,Test,Bystander View,Period 2,4
+805,Test,Bystander View,Period 2,5
+806,Test,Bystander View,Period 2,4
+807,Test,Bystander View,Period 2,3
+808,Test,Bystander View,Period 2,4
+809,Test,Bystander View,Period 2,3
+810,Test,Bystander View,Period 3,5
+811,Test,Bystander View,Period 3,5
+812,Test,Bystander View,Period 3,5
+813,Test,Bystander View,Period 3,5
+814,Test,Bystander View,Period 3,5
+815,Test,Bystander View,Period 3,5
+816,Test,Bystander View,Period 3,4
+817,Test,Bystander View,Period 3,6
+818,Test,Bystander View,Period 3,5
+819,Test,Bystander View,Period 3,4
+820,Test,Bystander View,Period 3,5
+821,Test,Bystander View,Period 3,4
+822,Test,Bystander View,Period 3,3
+823,Test,Bystander View,Period 3,6
+824,Test,Bystander View,Period 3,3
+825,Test,Bystander View,Period 4,7
+826,Test,Bystander View,Period 4,5
+827,Test,Bystander View,Period 4,7
+828,Test,Bystander View,Period 4,5
+829,Test,Bystander View,Period 4,5
+830,Test,Bystander View,Period 4,5
+831,Test,Bystander View,Period 4,4
+832,Test,Bystander View,Period 4,6
+833,Test,Bystander View,Period 4,5
+834,Test,Bystander View,Period 4,4
+835,Test,Bystander View,Period 4,5
+836,Test,Bystander View,Period 4,4
+837,Test,Bystander View,Period 4,4
+838,Test,Bystander View,Period 4,7
+839,Test,Bystander View,Period 4,6
+840,Test,Empathy,Period 1,4
+841,Test,Empathy,Period 1,4
+842,Test,Empathy,Period 1,4
+843,Test,Empathy,Period 1,7
+844,Test,Empathy,Period 1,6
+845,Test,Empathy,Period 1,7
+846,Test,Empathy,Period 1,4
+847,Test,Empathy,Period 1,4
+848,Test,Empathy,Period 1,4
+849,Test,Empathy,Period 1,5
+850,Test,Empathy,Period 1,7
+851,Test,Empathy,Period 1,4
+852,Test,Empathy,Period 1,4
+853,Test,Empathy,Period 1,3
+854,Test,Empathy,Period 1,4
+855,Test,Empathy,Period 2,5
+856,Test,Empathy,Period 2,5
+857,Test,Empathy,Period 2,4
+858,Test,Empathy,Period 2,7
+859,Test,Empathy,Period 2,6
+860,Test,Empathy,Period 2,7
+861,Test,Empathy,Period 2,4
+862,Test,Empathy,Period 2,4
+863,Test,Empathy,Period 2,4
+864,Test,Empathy,Period 2,5
+865,Test,Empathy,Period 2,7
+866,Test,Empathy,Period 2,4
+867,Test,Empathy,Period 2,4
+868,Test,Empathy,Period 2,4
+869,Test,Empathy,Period 2,4
+870,Test,Empathy,Period 3,6
+871,Test,Empathy,Period 3,6
+872,Test,Empathy,Period 3,4
+873,Test,Empathy,Period 3,7
+874,Test,Empathy,Period 3,6
+875,Test,Empathy,Period 3,7
+876,Test,Empathy,Period 3,4
+877,Test,Empathy,Period 3,4
+878,Test,Empathy,Period 3,4
+879,Test,Empathy,Period 3,5
+880,Test,Empathy,Period 3,7
+881,Test,Empathy,Period 3,4
+882,Test,Empathy,Period 3,5
+883,Test,Empathy,Period 3,4
+884,Test,Empathy,Period 3,6
+885,Test,Empathy,Period 4,7
+886,Test,Empathy,Period 4,6
+887,Test,Empathy,Period 4,4
+888,Test,Empathy,Period 4,7
+889,Test,Empathy,Period 4,6
+890,Test,Empathy,Period 4,7
+891,Test,Empathy,Period 4,4
+892,Test,Empathy,Period 4,4
+893,Test,Empathy,Period 4,4
+894,Test,Empathy,Period 4,5
+895,Test,Empathy,Period 4,7
+896,Test,Empathy,Period 4,4
+897,Test,Empathy,Period 4,5
+898,Test,Empathy,Period 4,4
+899,Test,Empathy,Period 4,6
+900,Test,Interpretations,Period 1,6
+901,Test,Interpretations,Period 1,6
+902,Test,Interpretations,Period 1,6
+903,Test,Interpretations,Period 1,5
+904,Test,Interpretations,Period 1,6
+905,Test,Interpretations,Period 1,7
+906,Test,Interpretations,Period 1,5
+907,Test,Interpretations,Period 1,5
+908,Test,Interpretations,Period 1,5
+909,Test,Interpretations,Period 1,5
+910,Test,Interpretations,Period 1,5
+911,Test,Interpretations,Period 1,6
+912,Test,Interpretations,Period 1,6
+913,Test,Interpretations,Period 1,6
+914,Test,Interpretations,Period 1,6
+915,Test,Interpretations,Period 2,6
+916,Test,Interpretations,Period 2,6
+917,Test,Interpretations,Period 2,6
+918,Test,Interpretations,Period 2,5
+919,Test,Interpretations,Period 2,6
+920,Test,Interpretations,Period 2,7
+921,Test,Interpretations,Period 2,5
+922,Test,Interpretations,Period 2,5
+923,Test,Interpretations,Period 2,3
+924,Test,Interpretations,Period 2,5
+925,Test,Interpretations,Period 2,5
+926,Test,Interpretations,Period 2,6
+927,Test,Interpretations,Period 2,3
+928,Test,Interpretations,Period 2,6
+929,Test,Interpretations,Period 2,6
+930,Test,Interpretations,Period 3,6
+931,Test,Interpretations,Period 3,6
+932,Test,Interpretations,Period 3,5
+933,Test,Interpretations,Period 3,5
+934,Test,Interpretations,Period 3,5
+935,Test,Interpretations,Period 3,5
+936,Test,Interpretations,Period 3,5
+937,Test,Interpretations,Period 3,5
+938,Test,Interpretations,Period 3,3
+939,Test,Interpretations,Period 3,5
+940,Test,Interpretations,Period 3,5
+941,Test,Interpretations,Period 3,6
+942,Test,Interpretations,Period 3,3
+943,Test,Interpretations,Period 3,6
+944,Test,Interpretations,Period 3,6
+945,Test,Interpretations,Period 4,7
+946,Test,Interpretations,Period 4,6
+947,Test,Interpretations,Period 4,5
+948,Test,Interpretations,Period 4,5
+949,Test,Interpretations,Period 4,6
+950,Test,Interpretations,Period 4,6
+951,Test,Interpretations,Period 4,6
+952,Test,Interpretations,Period 4,5
+953,Test,Interpretations,Period 4,3
+954,Test,Interpretations,Period 4,5
+955,Test,Interpretations,Period 4,5
+956,Test,Interpretations,Period 4,5
+957,Test,Interpretations,Period 4,3
+958,Test,Interpretations,Period 4,6
+959,Test,Interpretations,Period 4,6
+960,Test,Learning,Period 1,5
+961,Test,Learning,Period 1,6
+962,Test,Learning,Period 1,6
+963,Test,Learning,Period 1,5
+964,Test,Learning,Period 1,6
+965,Test,Learning,Period 1,7
+966,Test,Learning,Period 1,5
+967,Test,Learning,Period 1,5
+968,Test,Learning,Period 1,5
+969,Test,Learning,Period 1,5
+970,Test,Learning,Period 1,7
+971,Test,Learning,Period 1,7
+972,Test,Learning,Period 1,7
+973,Test,Learning,Period 1,6
+974,Test,Learning,Period 1,6
+975,Test,Learning,Period 2,5
+976,Test,Learning,Period 2,6
+977,Test,Learning,Period 2,6
+978,Test,Learning,Period 2,4
+979,Test,Learning,Period 2,5
+980,Test,Learning,Period 2,6
+981,Test,Learning,Period 2,5
+982,Test,Learning,Period 2,5
+983,Test,Learning,Period 2,5
+984,Test,Learning,Period 2,5
+985,Test,Learning,Period 2,7
+986,Test,Learning,Period 2,6
+987,Test,Learning,Period 2,4
+988,Test,Learning,Period 2,6
+989,Test,Learning,Period 2,6
+990,Test,Learning,Period 3,6
+991,Test,Learning,Period 3,5
+992,Test,Learning,Period 3,6
+993,Test,Learning,Period 3,4
+994,Test,Learning,Period 3,5
+995,Test,Learning,Period 3,6
+996,Test,Learning,Period 3,5
+997,Test,Learning,Period 3,5
+998,Test,Learning,Period 3,5
+999,Test,Learning,Period 3,5
+1000,Test,Learning,Period 3,5
+1001,Test,Learning,Period 3,6
+1002,Test,Learning,Period 3,4
+1003,Test,Learning,Period 3,6
+1004,Test,Learning,Period 3,4
+1005,Test,Learning,Period 4,6
+1006,Test,Learning,Period 4,5
+1007,Test,Learning,Period 4,6
+1008,Test,Learning,Period 4,4
+1009,Test,Learning,Period 4,5
+1010,Test,Learning,Period 4,3
+1011,Test,Learning,Period 4,5
+1012,Test,Learning,Period 4,5
+1013,Test,Learning,Period 4,5
+1014,Test,Learning,Period 4,5
+1015,Test,Learning,Period 4,3
+1016,Test,Learning,Period 4,6
+1017,Test,Learning,Period 4,4
+1018,Test,Learning,Period 4,5
+1019,Test,Learning,Period 4,4
+1020,Test,Ownership,Period 1,6
+1021,Test,Ownership,Period 1,6
+1022,Test,Ownership,Period 1,5
+1023,Test,Ownership,Period 1,6
+1024,Test,Ownership,Period 1,5
+1025,Test,Ownership,Period 1,4
+1026,Test,Ownership,Period 1,6
+1027,Test,Ownership,Period 1,7
+1028,Test,Ownership,Period 1,5
+1029,Test,Ownership,Period 1,7
+1030,Test,Ownership,Period 1,6
+1031,Test,Ownership,Period 1,4
+1032,Test,Ownership,Period 1,6
+1033,Test,Ownership,Period 1,5
+1034,Test,Ownership,Period 1,7
+1035,Test,Ownership,Period 2,5
+1036,Test,Ownership,Period 2,6
+1037,Test,Ownership,Period 2,5
+1038,Test,Ownership,Period 2,5
+1039,Test,Ownership,Period 2,5
+1040,Test,Ownership,Period 2,4
+1041,Test,Ownership,Period 2,6
+1042,Test,Ownership,Period 2,7
+1043,Test,Ownership,Period 2,5
+1044,Test,Ownership,Period 2,6
+1045,Test,Ownership,Period 2,6
+1046,Test,Ownership,Period 2,4
+1047,Test,Ownership,Period 2,6
+1048,Test,Ownership,Period 2,5
+1049,Test,Ownership,Period 2,6
+1050,Test,Ownership,Period 3,6
+1051,Test,Ownership,Period 3,6
+1052,Test,Ownership,Period 3,5
+1053,Test,Ownership,Period 3,7
+1054,Test,Ownership,Period 3,5
+1055,Test,Ownership,Period 3,4
+1056,Test,Ownership,Period 3,6
+1057,Test,Ownership,Period 3,7
+1058,Test,Ownership,Period 3,5
+1059,Test,Ownership,Period 3,6
+1060,Test,Ownership,Period 3,6
+1061,Test,Ownership,Period 3,4
+1062,Test,Ownership,Period 3,5
+1063,Test,Ownership,Period 3,5
+1064,Test,Ownership,Period 3,6
+1065,Test,Ownership,Period 4,6
+1066,Test,Ownership,Period 4,6
+1067,Test,Ownership,Period 4,5
+1068,Test,Ownership,Period 4,7
+1069,Test,Ownership,Period 4,5
+1070,Test,Ownership,Period 4,4
+1071,Test,Ownership,Period 4,6
+1072,Test,Ownership,Period 4,7
+1073,Test,Ownership,Period 4,5
+1074,Test,Ownership,Period 4,6
+1075,Test,Ownership,Period 4,6
+1076,Test,Ownership,Period 4,4
+1077,Test,Ownership,Period 4,7
+1078,Test,Ownership,Period 4,5
+1079,Test,Ownership,Period 4,6
+1080,Test,Long-term Usage,Period 1,6
+1081,Test,Long-term Usage,Period 1,6
+1082,Test,Long-term Usage,Period 1,5
+1083,Test,Long-term Usage,Period 1,6
+1084,Test,Long-term Usage,Period 1,5
+1085,Test,Long-term Usage,Period 1,4
+1086,Test,Long-term Usage,Period 1,6
+1087,Test,Long-term Usage,Period 1,7
+1088,Test,Long-term Usage,Period 1,5
+1089,Test,Long-term Usage,Period 1,6
+1090,Test,Long-term Usage,Period 1,6
+1091,Test,Long-term Usage,Period 1,4
+1092,Test,Long-term Usage,Period 1,6
+1093,Test,Long-term Usage,Period 1,5
+1094,Test,Long-term Usage,Period 1,7
+1095,Test,Long-term Usage,Period 2,5
+1096,Test,Long-term Usage,Period 2,5
+1097,Test,Long-term Usage,Period 2,6
+1098,Test,Long-term Usage,Period 2,6
+1099,Test,Long-term Usage,Period 2,5
+1100,Test,Long-term Usage,Period 2,6
+1101,Test,Long-term Usage,Period 2,6
+1102,Test,Long-term Usage,Period 2,6
+1103,Test,Long-term Usage,Period 2,5
+1104,Test,Long-term Usage,Period 2,6
+1105,Test,Long-term Usage,Period 2,6
+1106,Test,Long-term Usage,Period 2,4
+1107,Test,Long-term Usage,Period 2,6
+1108,Test,Long-term Usage,Period 2,5
+1109,Test,Long-term Usage,Period 2,7
+1110,Test,Long-term Usage,Period 3,6
+1111,Test,Long-term Usage,Period 3,6
+1112,Test,Long-term Usage,Period 3,6
+1113,Test,Long-term Usage,Period 3,6
+1114,Test,Long-term Usage,Period 3,6
+1115,Test,Long-term Usage,Period 3,6
+1116,Test,Long-term Usage,Period 3,6
+1117,Test,Long-term Usage,Period 3,6
+1118,Test,Long-term Usage,Period 3,6
+1119,Test,Long-term Usage,Period 3,6
+1120,Test,Long-term Usage,Period 3,6
+1121,Test,Long-term Usage,Period 3,4
+1122,Test,Long-term Usage,Period 3,6
+1123,Test,Long-term Usage,Period 3,5
+1124,Test,Long-term Usage,Period 3,7
+1125,Test,Long-term Usage,Period 4,6
+1126,Test,Long-term Usage,Period 4,4
+1127,Test,Long-term Usage,Period 4,6
+1128,Test,Long-term Usage,Period 4,3
+1129,Test,Long-term Usage,Period 4,6
+1130,Test,Long-term Usage,Period 4,5
+1131,Test,Long-term Usage,Period 4,6
+1132,Test,Long-term Usage,Period 4,7
+1133,Test,Long-term Usage,Period 4,6
+1134,Test,Long-term Usage,Period 4,5
+1135,Test,Long-term Usage,Period 4,6
+1136,Test,Long-term Usage,Period 4,4
+1137,Test,Long-term Usage,Period 4,5
+1138,Test,Long-term Usage,Period 4,3
+1139,Test,Long-term Usage,Period 4,4
+1140,Test,Over-reliance,Period 1,3
+1141,Test,Over-reliance,Period 1,4
+1142,Test,Over-reliance,Period 1,3
+1143,Test,Over-reliance,Period 1,3
+1144,Test,Over-reliance,Period 1,3
+1145,Test,Over-reliance,Period 1,4
+1146,Test,Over-reliance,Period 1,3
+1147,Test,Over-reliance,Period 1,3
+1148,Test,Over-reliance,Period 1,3
+1149,Test,Over-reliance,Period 1,2
+1150,Test,Over-reliance,Period 1,4
+1151,Test,Over-reliance,Period 1,5
+1152,Test,Over-reliance,Period 1,4
+1153,Test,Over-reliance,Period 1,3
+1154,Test,Over-reliance,Period 1,3
+1155,Test,Over-reliance,Period 2,4
+1156,Test,Over-reliance,Period 2,4
+1157,Test,Over-reliance,Period 2,3
+1158,Test,Over-reliance,Period 2,3
+1159,Test,Over-reliance,Period 2,3
+1160,Test,Over-reliance,Period 2,4
+1161,Test,Over-reliance,Period 2,3
+1162,Test,Over-reliance,Period 2,3
+1163,Test,Over-reliance,Period 2,3
+1164,Test,Over-reliance,Period 2,2
+1165,Test,Over-reliance,Period 2,6
+1166,Test,Over-reliance,Period 2,5
+1167,Test,Over-reliance,Period 2,4
+1168,Test,Over-reliance,Period 2,4
+1169,Test,Over-reliance,Period 2,3
+1170,Test,Over-reliance,Period 3,5
+1171,Test,Over-reliance,Period 3,4
+1172,Test,Over-reliance,Period 3,3
+1173,Test,Over-reliance,Period 3,5
+1174,Test,Over-reliance,Period 3,3
+1175,Test,Over-reliance,Period 3,6
+1176,Test,Over-reliance,Period 3,3
+1177,Test,Over-reliance,Period 3,3
+1178,Test,Over-reliance,Period 3,5
+1179,Test,Over-reliance,Period 3,2
+1180,Test,Over-reliance,Period 3,6
+1181,Test,Over-reliance,Period 3,5
+1182,Test,Over-reliance,Period 3,4
+1183,Test,Over-reliance,Period 3,4
+1184,Test,Over-reliance,Period 3,3
+1185,Test,Over-reliance,Period 4,6
+1186,Test,Over-reliance,Period 4,4
+1187,Test,Over-reliance,Period 4,3
+1188,Test,Over-reliance,Period 4,5
+1189,Test,Over-reliance,Period 4,3
+1190,Test,Over-reliance,Period 4,6
+1191,Test,Over-reliance,Period 4,3
+1192,Test,Over-reliance,Period 4,3
+1193,Test,Over-reliance,Period 4,5
+1194,Test,Over-reliance,Period 4,2
+1195,Test,Over-reliance,Period 4,6
+1196,Test,Over-reliance,Period 4,5
+1197,Test,Over-reliance,Period 4,5
+1198,Test,Over-reliance,Period 4,6
+1199,Test,Over-reliance,Period 4,6
