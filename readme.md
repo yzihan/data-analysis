@@ -23,7 +23,7 @@ Conclusions Drawn: It provides a visual summary of the data, highlighting patter
 
 Example: In a retail analysis, a heatmap can illustrate peak shopping times during the week across various stores, helping in staffing and marketing decisions.
 
-Time Series Data
+## Time Series Data
 
 When to Use: This analysis is suitable for data that is collected over regular time intervals, like daily stock prices, monthly sales data, etc.
 
