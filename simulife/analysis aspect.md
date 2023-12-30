@@ -1,4 +1,4 @@
-# analysis aspect
+# Analysis Plan
 
 ## Conversation data
 
@@ -10,19 +10,41 @@
 Groups| Single Character Chatting | Group Chatting | Sage Agent 
 --|----------|----------|----------
 With sage agent group|  |  |
-Without sage agent group|  |  |
+Without sage agent group|  |  |N/A
 
 
 
-### Time Duration
+### Conversation Length
+
+- Reference: Beliefs about AI influence human-AI interaction and can be manipulated to increase perceived trustworthiness, empathy, and effectiveness
+
+![conversation](./conversation.png)
+
+### Engagement Analysis
+
+1. **Data Preparation**:
+   - Extract conversation logs between humans and the AI.
+   - Ensure the data is clean and structured, with clear demarcations of each message and its sender (human or AI).
+2. **Conversation Round Counting**:
+   - Define a "conversation round": typically, this is a pair of interactions where one party initiates or asks, and the other responds.
+   - Count the number of rounds in each conversation. This can be done programmatically by iterating through the conversation logs and counting each exchange.
+3. **Word Count Analysis**:
+   - Calculate the number of words in each sentence or message. This can be done by splitting each message into words (using spaces and punctuation as separators) and counting them.
+   - Determine the average word count per sentence for both human and AI participants. This involves summing up the word counts of all messages by each party and dividing by the number of messages.
+4. **Statistical Analysis**:
+   - Compute descriptive statistics like mean, median, and standard deviation for both the number of rounds per conversation and the average word count per message.
+   - Optionally, perform more advanced statistical analysis to uncover trends or significant differences in conversation lengths and word counts under different conditions (e.g., time of day, type of query).
+5. **Visual Representation**:
+   - Use graphs and charts to visually represent the data. For example, histograms can show the distribution of conversation lengths and word counts.
+   - Scatter plots might help in visualizing the relationship (if any) between the length of the conversation and the verbosity of messages.
+
+
 
 
 
 ### Sage Agent -- Topic
 
 Which types of guidance they gave
-
-![conversation](./conversation.png)
 
 
 
@@ -36,11 +58,13 @@ Link: https://www.liwc.app/help/aon
 
 
 
-
-
 ## Scale
 
 ### Tests for Small Samples (p-value)
+
+![image](./image.png)
+
+![p](./p.png)
 
 1. **Student's t-test (for small, independent samples):**
    - **Usage**: Suitable when you have two independent groups with small sample sizes. It's often used when the sample sizes are less than 30.
@@ -54,6 +78,23 @@ Link: https://www.liwc.app/help/aon
    - **Data Type**: Suitable for ordinal data (like Likert scales) or continuous data that is not normally distributed.
    - **Conclusion**: Tests whether one sample is stochastically greater than the other, a useful test for median differences.
    - **Sensitivity**: Less sensitive to outliers and more robust for smaller sample sizes or non-normal data.
+
+### Table -- Narration Transporation
+
+- Y: score
+- X: items
+- each itesm -- two bars (with agent/without agent)
+- P-value should be labed on two bars for each item
+- Conclusion: under this table (dimension), with agent and without agent group has significant difference on xxx xxx and xxx items (aspects/detailed questions), but has no significant difference on the rest aspects. [sage agent compared to no sage agent]
+
+### Table -- Non-cognitive 
+
+- Conclusion: there are many aspects under the non-cogntives, such as self-control and xxx. And we found our system is better at improving or benefits reflection on aspects a. b and c (larger score), and bad at the rest. [comprasion among the items]
+- Non-cognitive: a, b, c, d, e, f, g
+  - Hypothsis: a and d maybe are interconnected. 
+  - Correspondent analysis
+    - Reference: https://dl.acm.org/doi/10.1145/3290605.3300897
+    - ![corr](./corr.png)
 
 ### System Usability Scale (SUS)
 
