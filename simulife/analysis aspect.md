@@ -18,7 +18,7 @@ Without sage agent group|  |  |N/A
 
 - Reference: Beliefs about AI influence human-AI interaction and can be manipulated to increase perceived trustworthiness, empathy, and effectiveness
 
-![conversation](./conversation.png)
+![conversation](./imgs/conversation.png)
 
 ### Engagement Analysis
 
@@ -54,7 +54,9 @@ Which types of guidance they gave
 
 Link: https://www.liwc.app/help/aon
 
-![narrative](./narrative.png)
+![narrative](./imgs/narrative.png)
+
+Need to do time series analysis
 
 
 
@@ -62,9 +64,9 @@ Link: https://www.liwc.app/help/aon
 
 ### Tests for Small Samples (p-value)
 
-![image](./image.png)
+![image](./imgs/image.png)
 
-![p](./p.png)
+![p](./imgs/p.png)
 
 1. **Student's t-test (for small, independent samples):**
    - **Usage**: Suitable when you have two independent groups with small sample sizes. It's often used when the sample sizes are less than 30.
@@ -94,7 +96,7 @@ Link: https://www.liwc.app/help/aon
   - Hypothsis: a and d maybe are interconnected. 
   - Correspondent analysis
     - Reference: https://dl.acm.org/doi/10.1145/3290605.3300897
-    - ![corr](./corr.png)
+    - ![corr](./imgs/corr.png)
 
 ### System Usability Scale (SUS)
 
