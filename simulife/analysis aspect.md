@@ -91,8 +91,12 @@ Need to do time series analysis
 
 ### Table -- Non-cognitive 
 
+#### Multi-Group Compare
+
 - Conclusion: there are many aspects under the non-cogntives, such as self-control and xxx. And we found our system is better at improving or benefits reflection on aspects a. b and c (larger score), and bad at the rest. [comprasion among the items]
+
 - Hypothesis, our system might be more good at some aspects and bad at others
+
   - we have eight dimension: A, B, C, D, E, F, G, H, I
   - for each dimension, we have two groups of data
     - a = [a1, a2, a3, ...., a18]
@@ -110,7 +114,12 @@ Need to do time series analysis
     - For Kruskal-Wallis, conduct post hoc pairwise comparisons using a non-parametric test like the Dunn's test, with correction for multiple comparisons.
     - the conclusion will be like: The significant difference comes from A and G, or A, B and H.
 
-- Non-cognitive: a, b, c, d, e, f, g
+  
+
+  
+
+  #### Corrspondent Analysis 
+
   - Hypothsis: a and d maybe are interconnected. 
   - Correspondent analysis
     - Reference: https://dl.acm.org/doi/10.1145/3290605.3300897
