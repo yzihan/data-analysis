@@ -92,6 +92,24 @@ Need to do time series analysis
 ### Table -- Non-cognitive 
 
 - Conclusion: there are many aspects under the non-cogntives, such as self-control and xxx. And we found our system is better at improving or benefits reflection on aspects a. b and c (larger score), and bad at the rest. [comprasion among the items]
+- Hypothesis, our system might be more good at some aspects and bad at others
+  - we have eight dimension: A, B, C, D, E, F, G, H, I
+  - for each dimension, we have two groups of data
+    - a = [a1, a2, a3, ...., a18]
+    - b = [b1, b2, b3,... , b18]
+
+  - then we have a data shows their delta: c = b - a
+  - then we need to see, based on data c, whether A, B, C, D, E, F, G, H, I show difference
+  - **Normality Test**: Perform a normality test (e.g., Shapiro-Wilk or Kolmogorov-Smirnov test) on the delta values of each dimension. This assesses whether the data distribution in each dimension conforms to a normal distribution, which is important for deciding on the appropriate statistical test.
+  - **Choosing the Right Test**:
+    - If the delta values for all dimensions are normally distributed, you can proceed with a One-Way ANOVA. This test will determine if there are statistically significant differences among the means of the different dimensions.
+    - If the delta values are not normally distributed, use a non-parametric alternative such as the Kruskal-Wallis test.
+    - the conclusion will be like: there is a significant difference or no significant difference among 8 group. 
+  - **Post Hoc Analysis**: If your ANOVA or Kruskal-Wallis test indicates significant differences:
+    - For ANOVA, conduct post hoc tests (e.g., Tukey's HSD) to identify which specific dimensions differ from each other.
+    - For Kruskal-Wallis, conduct post hoc pairwise comparisons using a non-parametric test like the Dunn's test, with correction for multiple comparisons.
+    - the conclusion will be like: The significant difference comes from A and G, or A, B and H.
+
 - Non-cognitive: a, b, c, d, e, f, g
   - Hypothsis: a and d maybe are interconnected. 
   - Correspondent analysis
